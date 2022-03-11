@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+  }
+  
+  h1 {
+    font-family: "Roboto Serif", sans-serif;
+  }
+  p {
+    font-family: "Fira Sans", sans-serif;
+  }
